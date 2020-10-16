@@ -2,7 +2,7 @@ body {
   font-family: Arial, Helvetica, sans-serif;
   line-height: 1.5;
   color: #222;
-  background-color: rgb(184, 84, 18);
+  background-color: #82b8ebc7;
 }
 
 header,
@@ -31,7 +31,7 @@ nav li {
 nav a {
   color: white;
   text-decoration: none;
-  background-color: #ce7b0ec7;
+  background-color: #2724a1;
   padding: 10px 10px;
   border-radius: 3px;
 }
@@ -41,14 +41,14 @@ a:link {
     text-decoration: none;
 }
 a:visited {
-    color: darkgreen;
+    color: rgb(12, 149, 241);
 }
 a:hover {
     color: black;
     font-size: large;
 }
 a:active {
-    color: yellow;
+    color: rgb(17, 75, 233);
 }
 
 img {
@@ -60,7 +60,7 @@ article img {
   height: 340px;
   float: left;
   margin-right: 25px;
-  border: 5px solid darkgreen;
+  border: 5px solid #2724a1;
 }
 
 article {
