@@ -29,7 +29,7 @@ nav li {
 }
 
 nav a {
-  color: white;
+  color: darkgreen;
   text-decoration: none;
   background-color: #ce7b0ec7;
   padding: 10px 10px;
@@ -37,18 +37,18 @@ nav a {
 }
 
 a:link {
-    color: white;
+    color: darkgreen;
     text-decoration: none;
 }
 a:visited {
-    color: darkgreen;
+    color: black;
 }
 a:hover {
-    color: black;
+    color: darkred;
     font-size: large;
 }
 a:active {
-    color: yellow;
+    color: yellowgreen;
 }
 
 img {
